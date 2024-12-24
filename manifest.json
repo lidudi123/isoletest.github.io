@@ -1,0 +1,8 @@
+{
+  "short_name": "Table Tango App",
+  "name": "Table Tango",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
