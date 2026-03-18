@@ -1,34 +1,34 @@
 {
-  "_BackButton-BERjZNZe.js": {
-    "file": "assets/BackButton-BERjZNZe.js",
+  "_BackButton-Cc4uPtfv.js": {
+    "file": "assets/BackButton-Cc4uPtfv.js",
     "name": "BackButton",
     "imports": [
       "index.html"
     ]
   },
-  "_Carousel-BJqdYi18.js": {
-    "file": "assets/Carousel-BJqdYi18.js",
+  "_Carousel-CxqL3e6Y.js": {
+    "file": "assets/Carousel-CxqL3e6Y.js",
     "name": "Carousel",
     "imports": [
       "index.html"
     ]
   },
-  "_ContactSectionLink-hHmJYbyZ.js": {
-    "file": "assets/ContactSectionLink-hHmJYbyZ.js",
+  "_ContactSectionLink-DWcfWSLY.js": {
+    "file": "assets/ContactSectionLink-DWcfWSLY.js",
     "name": "ContactSectionLink",
     "imports": [
       "index.html"
     ]
   },
-  "_FeatureCard-BuBuUCC_.js": {
-    "file": "assets/FeatureCard-BuBuUCC_.js",
+  "_FeatureCard-BCuuqfrJ.js": {
+    "file": "assets/FeatureCard-BCuuqfrJ.js",
     "name": "FeatureCard",
     "imports": [
       "index.html"
     ]
   },
-  "_Product-HvN1u2-n.js": {
-    "file": "assets/Product-HvN1u2-n.js",
+  "_Product-ji98BSs5.js": {
+    "file": "assets/Product-ji98BSs5.js",
     "name": "Product",
     "imports": [
       "index.html"
@@ -38,8 +38,8 @@
     "file": "assets/brandschutzturPageData-DZ8uD6tk.js",
     "name": "brandschutzturPageData"
   },
-  "_client-B1cECp-H.js": {
-    "file": "assets/client-B1cECp-H.js",
+  "_client-Duf4TK0_.js": {
+    "file": "assets/client-Duf4TK0_.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -63,12 +63,12 @@
     "name": "turPageData"
   },
   "index.html": {
-    "file": "assets/app-8rwZrjs_.js",
+    "file": "assets/app-CLQH2qoy.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-B1cECp-H.js",
+      "_client-Duf4TK0_.js",
       "src/scripts.js",
       "src/components/pages/References/ReferencesPage.tsx",
       "src/components/pages/OurServices/TechnicalPlanning/TechnicalPlanning.tsx",
@@ -89,128 +89,128 @@
     ]
   },
   "src/components/pages/AboutUs/AboutUs.tsx": {
-    "file": "assets/AboutUs-D0-GYGZp.js",
+    "file": "assets/AboutUs-Cq0e8XMx.js",
     "name": "AboutUs",
     "src": "src/components/pages/AboutUs/AboutUs.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ContactSectionLink-hHmJYbyZ.js"
+      "_ContactSectionLink-DWcfWSLY.js"
     ]
   },
   "src/components/pages/Contact/ContanctPage.tsx": {
-    "file": "assets/ContanctPage-DK0O5zJ-.js",
+    "file": "assets/ContanctPage-BFTh1cYP.js",
     "name": "ContanctPage",
     "src": "src/components/pages/Contact/ContanctPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ContactSectionLink-hHmJYbyZ.js"
+      "_ContactSectionLink-DWcfWSLY.js"
     ]
   },
   "src/components/pages/OurServices/Fassaden/FassadenPage.tsx": {
-    "file": "assets/FassadenPage-B3sp3WhH.js",
+    "file": "assets/FassadenPage-DPna7yGH.js",
     "name": "FassadenPage",
     "src": "src/components/pages/OurServices/Fassaden/FassadenPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Product-HvN1u2-n.js",
+      "_Product-ji98BSs5.js",
       "_fassadenPageData-CkP4VdsF.js",
-      "_ContactSectionLink-hHmJYbyZ.js",
-      "_FeatureCard-BuBuUCC_.js"
+      "_ContactSectionLink-DWcfWSLY.js",
+      "_FeatureCard-BCuuqfrJ.js"
     ]
   },
   "src/components/pages/OurServices/Fenster/FensterPage.tsx": {
-    "file": "assets/FensterPage-DRXsHblY.js",
+    "file": "assets/FensterPage-DmW3wTsj.js",
     "name": "FensterPage",
     "src": "src/components/pages/OurServices/Fenster/FensterPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_fensterPageData-pKHoJMKV.js",
-      "_Product-HvN1u2-n.js",
-      "_FeatureCard-BuBuUCC_.js",
-      "_ContactSectionLink-hHmJYbyZ.js"
+      "_Product-ji98BSs5.js",
+      "_FeatureCard-BCuuqfrJ.js",
+      "_ContactSectionLink-DWcfWSLY.js"
     ]
   },
   "src/components/pages/OurServices/SunProtection/SunProtectionPage.tsx": {
-    "file": "assets/SunProtectionPage-CAGIX0Xx.js",
+    "file": "assets/SunProtectionPage-BsPuel7Y.js",
     "name": "SunProtectionPage",
     "src": "src/components/pages/OurServices/SunProtection/SunProtectionPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Carousel-BJqdYi18.js",
-      "_ContactSectionLink-hHmJYbyZ.js"
+      "_Carousel-CxqL3e6Y.js",
+      "_ContactSectionLink-DWcfWSLY.js"
     ]
   },
   "src/components/pages/OurServices/TechnicalPlanning/TechnicalPlanning.tsx": {
-    "file": "assets/TechnicalPlanning-Bwpdd9oG.js",
+    "file": "assets/TechnicalPlanning-CCm6N5nT.js",
     "name": "TechnicalPlanning",
     "src": "src/components/pages/OurServices/TechnicalPlanning/TechnicalPlanning.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ContactSectionLink-hHmJYbyZ.js"
+      "_ContactSectionLink-DWcfWSLY.js"
     ]
   },
   "src/components/pages/OurServices/Turen/BrandschutzturPage.tsx": {
-    "file": "assets/BrandschutzturPage-DnZlsjqh.js",
+    "file": "assets/BrandschutzturPage-BuTSINCk.js",
     "name": "BrandschutzturPage",
     "src": "src/components/pages/OurServices/Turen/BrandschutzturPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_brandschutzturPageData-DZ8uD6tk.js",
-      "_Product-HvN1u2-n.js",
-      "_BackButton-BERjZNZe.js",
-      "_ContactSectionLink-hHmJYbyZ.js"
+      "_Product-ji98BSs5.js",
+      "_BackButton-Cc4uPtfv.js",
+      "_ContactSectionLink-DWcfWSLY.js"
     ]
   },
   "src/components/pages/OurServices/Turen/SchiebeturenPage.tsx": {
-    "file": "assets/SchiebeturenPage-CSNc3cTE.js",
+    "file": "assets/SchiebeturenPage-BnyuGF-_.js",
     "name": "SchiebeturenPage",
     "src": "src/components/pages/OurServices/Turen/SchiebeturenPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Product-HvN1u2-n.js",
+      "_Product-ji98BSs5.js",
       "_schiebeturPageData-BMQhl7RV.js",
-      "_BackButton-BERjZNZe.js"
+      "_BackButton-Cc4uPtfv.js"
     ]
   },
   "src/components/pages/OurServices/Turen/TurPage.tsx": {
-    "file": "assets/TurPage-CJChoOE7.js",
+    "file": "assets/TurPage-BHb6o7NM.js",
     "name": "TurPage",
     "src": "src/components/pages/OurServices/Turen/TurPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_turPageData-677oF3xx.js",
-      "_Product-HvN1u2-n.js",
-      "_BackButton-BERjZNZe.js"
+      "_Product-ji98BSs5.js",
+      "_BackButton-Cc4uPtfv.js"
     ]
   },
   "src/components/pages/OurServices/Turen/TurenPage.tsx": {
-    "file": "assets/TurenPage-C_T4gfbu.js",
+    "file": "assets/TurenPage-DFvVz_nr.js",
     "name": "TurenPage",
     "src": "src/components/pages/OurServices/Turen/TurenPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_FeatureCard-BuBuUCC_.js",
-      "_ContactSectionLink-hHmJYbyZ.js"
+      "_FeatureCard-BCuuqfrJ.js",
+      "_ContactSectionLink-DWcfWSLY.js"
     ]
   },
   "src/components/pages/Products/ProductDetailsPage.tsx": {
-    "file": "assets/ProductDetailsPage-Cx-EAW_Y.js",
+    "file": "assets/ProductDetailsPage-C9tKgZKQ.js",
     "name": "ProductDetailsPage",
     "src": "src/components/pages/Products/ProductDetailsPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_BackButton-BERjZNZe.js",
+      "_BackButton-Cc4uPtfv.js",
       "_fensterPageData-pKHoJMKV.js",
       "_turPageData-677oF3xx.js",
       "_fassadenPageData-CkP4VdsF.js",
@@ -222,7 +222,7 @@
     ]
   },
   "src/components/pages/Products/ProductsPage.tsx": {
-    "file": "assets/ProductsPage-CQ9UWMLj.js",
+    "file": "assets/ProductsPage-BPHtVF8J.js",
     "name": "ProductsPage",
     "src": "src/components/pages/Products/ProductsPage.tsx",
     "isDynamicEntry": true,
@@ -233,25 +233,25 @@
       "src/components/pages/OurServices/Fenster/FensterPage.tsx",
       "src/components/pages/OurServices/Fassaden/FassadenPage.tsx",
       "src/components/pages/OurServices/Turen/SchiebeturenPage.tsx",
-      "_BackButton-BERjZNZe.js",
+      "_BackButton-Cc4uPtfv.js",
       "_turPageData-677oF3xx.js",
-      "_Product-HvN1u2-n.js",
+      "_Product-ji98BSs5.js",
       "_brandschutzturPageData-DZ8uD6tk.js",
-      "_ContactSectionLink-hHmJYbyZ.js",
+      "_ContactSectionLink-DWcfWSLY.js",
       "_fensterPageData-pKHoJMKV.js",
-      "_FeatureCard-BuBuUCC_.js",
+      "_FeatureCard-BCuuqfrJ.js",
       "_fassadenPageData-CkP4VdsF.js",
       "_schiebeturPageData-BMQhl7RV.js"
     ]
   },
   "src/components/pages/References/ReferencesPage.tsx": {
-    "file": "assets/ReferencesPage-CH2BDFFw.js",
+    "file": "assets/ReferencesPage-CIcLcPmA.js",
     "name": "ReferencesPage",
     "src": "src/components/pages/References/ReferencesPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Carousel-BJqdYi18.js"
+      "_Carousel-CxqL3e6Y.js"
     ]
   },
   "src/scripts.js": {
