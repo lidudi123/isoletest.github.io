@@ -1,0 +1,263 @@
+{
+  "_BackButton-BERjZNZe.js": {
+    "file": "assets/BackButton-BERjZNZe.js",
+    "name": "BackButton",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_Carousel-BJqdYi18.js": {
+    "file": "assets/Carousel-BJqdYi18.js",
+    "name": "Carousel",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_ContactSectionLink-hHmJYbyZ.js": {
+    "file": "assets/ContactSectionLink-hHmJYbyZ.js",
+    "name": "ContactSectionLink",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_FeatureCard-BuBuUCC_.js": {
+    "file": "assets/FeatureCard-BuBuUCC_.js",
+    "name": "FeatureCard",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_Product-HvN1u2-n.js": {
+    "file": "assets/Product-HvN1u2-n.js",
+    "name": "Product",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_brandschutzturPageData-DZ8uD6tk.js": {
+    "file": "assets/brandschutzturPageData-DZ8uD6tk.js",
+    "name": "brandschutzturPageData"
+  },
+  "_client-B1cECp-H.js": {
+    "file": "assets/client-B1cECp-H.js",
+    "name": "client",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_fassadenPageData-CkP4VdsF.js": {
+    "file": "assets/fassadenPageData-CkP4VdsF.js",
+    "name": "fassadenPageData"
+  },
+  "_fensterPageData-pKHoJMKV.js": {
+    "file": "assets/fensterPageData-pKHoJMKV.js",
+    "name": "fensterPageData"
+  },
+  "_schiebeturPageData-BMQhl7RV.js": {
+    "file": "assets/schiebeturPageData-BMQhl7RV.js",
+    "name": "schiebeturPageData"
+  },
+  "_turPageData-677oF3xx.js": {
+    "file": "assets/turPageData-677oF3xx.js",
+    "name": "turPageData"
+  },
+  "index.html": {
+    "file": "assets/app-8rwZrjs_.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "_client-B1cECp-H.js",
+      "src/scripts.js",
+      "src/components/pages/References/ReferencesPage.tsx",
+      "src/components/pages/OurServices/TechnicalPlanning/TechnicalPlanning.tsx",
+      "src/components/pages/OurServices/SunProtection/SunProtectionPage.tsx",
+      "src/components/pages/AboutUs/AboutUs.tsx",
+      "src/components/pages/OurServices/Fenster/FensterPage.tsx",
+      "src/components/pages/OurServices/Turen/TurenPage.tsx",
+      "src/components/pages/OurServices/Turen/TurPage.tsx",
+      "src/components/pages/OurServices/Turen/BrandschutzturPage.tsx",
+      "src/components/pages/OurServices/Turen/SchiebeturenPage.tsx",
+      "src/components/pages/OurServices/Fassaden/FassadenPage.tsx",
+      "src/components/pages/Contact/ContanctPage.tsx",
+      "src/components/pages/Products/ProductsPage.tsx",
+      "src/components/pages/Products/ProductDetailsPage.tsx"
+    ],
+    "css": [
+      "assets/app-DT4-QW16.css"
+    ]
+  },
+  "src/components/pages/AboutUs/AboutUs.tsx": {
+    "file": "assets/AboutUs-D0-GYGZp.js",
+    "name": "AboutUs",
+    "src": "src/components/pages/AboutUs/AboutUs.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ContactSectionLink-hHmJYbyZ.js"
+    ]
+  },
+  "src/components/pages/Contact/ContanctPage.tsx": {
+    "file": "assets/ContanctPage-DK0O5zJ-.js",
+    "name": "ContanctPage",
+    "src": "src/components/pages/Contact/ContanctPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ContactSectionLink-hHmJYbyZ.js"
+    ]
+  },
+  "src/components/pages/OurServices/Fassaden/FassadenPage.tsx": {
+    "file": "assets/FassadenPage-B3sp3WhH.js",
+    "name": "FassadenPage",
+    "src": "src/components/pages/OurServices/Fassaden/FassadenPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Product-HvN1u2-n.js",
+      "_fassadenPageData-CkP4VdsF.js",
+      "_ContactSectionLink-hHmJYbyZ.js",
+      "_FeatureCard-BuBuUCC_.js"
+    ]
+  },
+  "src/components/pages/OurServices/Fenster/FensterPage.tsx": {
+    "file": "assets/FensterPage-DRXsHblY.js",
+    "name": "FensterPage",
+    "src": "src/components/pages/OurServices/Fenster/FensterPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_fensterPageData-pKHoJMKV.js",
+      "_Product-HvN1u2-n.js",
+      "_FeatureCard-BuBuUCC_.js",
+      "_ContactSectionLink-hHmJYbyZ.js"
+    ]
+  },
+  "src/components/pages/OurServices/SunProtection/SunProtectionPage.tsx": {
+    "file": "assets/SunProtectionPage-CAGIX0Xx.js",
+    "name": "SunProtectionPage",
+    "src": "src/components/pages/OurServices/SunProtection/SunProtectionPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Carousel-BJqdYi18.js",
+      "_ContactSectionLink-hHmJYbyZ.js"
+    ]
+  },
+  "src/components/pages/OurServices/TechnicalPlanning/TechnicalPlanning.tsx": {
+    "file": "assets/TechnicalPlanning-Bwpdd9oG.js",
+    "name": "TechnicalPlanning",
+    "src": "src/components/pages/OurServices/TechnicalPlanning/TechnicalPlanning.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ContactSectionLink-hHmJYbyZ.js"
+    ]
+  },
+  "src/components/pages/OurServices/Turen/BrandschutzturPage.tsx": {
+    "file": "assets/BrandschutzturPage-DnZlsjqh.js",
+    "name": "BrandschutzturPage",
+    "src": "src/components/pages/OurServices/Turen/BrandschutzturPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_brandschutzturPageData-DZ8uD6tk.js",
+      "_Product-HvN1u2-n.js",
+      "_BackButton-BERjZNZe.js",
+      "_ContactSectionLink-hHmJYbyZ.js"
+    ]
+  },
+  "src/components/pages/OurServices/Turen/SchiebeturenPage.tsx": {
+    "file": "assets/SchiebeturenPage-CSNc3cTE.js",
+    "name": "SchiebeturenPage",
+    "src": "src/components/pages/OurServices/Turen/SchiebeturenPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Product-HvN1u2-n.js",
+      "_schiebeturPageData-BMQhl7RV.js",
+      "_BackButton-BERjZNZe.js"
+    ]
+  },
+  "src/components/pages/OurServices/Turen/TurPage.tsx": {
+    "file": "assets/TurPage-CJChoOE7.js",
+    "name": "TurPage",
+    "src": "src/components/pages/OurServices/Turen/TurPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_turPageData-677oF3xx.js",
+      "_Product-HvN1u2-n.js",
+      "_BackButton-BERjZNZe.js"
+    ]
+  },
+  "src/components/pages/OurServices/Turen/TurenPage.tsx": {
+    "file": "assets/TurenPage-C_T4gfbu.js",
+    "name": "TurenPage",
+    "src": "src/components/pages/OurServices/Turen/TurenPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_FeatureCard-BuBuUCC_.js",
+      "_ContactSectionLink-hHmJYbyZ.js"
+    ]
+  },
+  "src/components/pages/Products/ProductDetailsPage.tsx": {
+    "file": "assets/ProductDetailsPage-Cx-EAW_Y.js",
+    "name": "ProductDetailsPage",
+    "src": "src/components/pages/Products/ProductDetailsPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BackButton-BERjZNZe.js",
+      "_fensterPageData-pKHoJMKV.js",
+      "_turPageData-677oF3xx.js",
+      "_fassadenPageData-CkP4VdsF.js",
+      "_schiebeturPageData-BMQhl7RV.js",
+      "_brandschutzturPageData-DZ8uD6tk.js"
+    ],
+    "css": [
+      "assets/ProductDetailsPage-BS2x_pS6.css"
+    ]
+  },
+  "src/components/pages/Products/ProductsPage.tsx": {
+    "file": "assets/ProductsPage-CQ9UWMLj.js",
+    "name": "ProductsPage",
+    "src": "src/components/pages/Products/ProductsPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/components/pages/OurServices/Turen/TurPage.tsx",
+      "src/components/pages/OurServices/Turen/BrandschutzturPage.tsx",
+      "src/components/pages/OurServices/Fenster/FensterPage.tsx",
+      "src/components/pages/OurServices/Fassaden/FassadenPage.tsx",
+      "src/components/pages/OurServices/Turen/SchiebeturenPage.tsx",
+      "_BackButton-BERjZNZe.js",
+      "_turPageData-677oF3xx.js",
+      "_Product-HvN1u2-n.js",
+      "_brandschutzturPageData-DZ8uD6tk.js",
+      "_ContactSectionLink-hHmJYbyZ.js",
+      "_fensterPageData-pKHoJMKV.js",
+      "_FeatureCard-BuBuUCC_.js",
+      "_fassadenPageData-CkP4VdsF.js",
+      "_schiebeturPageData-BMQhl7RV.js"
+    ]
+  },
+  "src/components/pages/References/ReferencesPage.tsx": {
+    "file": "assets/ReferencesPage-CH2BDFFw.js",
+    "name": "ReferencesPage",
+    "src": "src/components/pages/References/ReferencesPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Carousel-BJqdYi18.js"
+    ]
+  },
+  "src/scripts.js": {
+    "file": "assets/scripts-CE7bU8ez.js",
+    "name": "scripts",
+    "src": "src/scripts.js",
+    "isDynamicEntry": true
+  }
+}
