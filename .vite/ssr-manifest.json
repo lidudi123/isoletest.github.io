@@ -6,24 +6,24 @@
   "\u0000E:/IdeaProjects/isole/node_modules/prop-types/index.js?commonjs-es-import": [],
   "\u0000E:/IdeaProjects/isole/node_modules/prop-types/index.js?commonjs-module": [],
   "\u0000E:/IdeaProjects/isole/node_modules/react-dom/cjs/react-dom-client.production.js?commonjs-exports": [
-    "/isoletest.github.io/assets/client-Duf4TK0_.js"
+    "/isoletest.github.io/assets/client-DgSNFg-o.js"
   ],
   "\u0000E:/IdeaProjects/isole/node_modules/react-dom/cjs/react-dom.production.js?commonjs-exports": [],
   "\u0000E:/IdeaProjects/isole/node_modules/react-dom/client.js?commonjs-es-import": [
-    "/isoletest.github.io/assets/client-Duf4TK0_.js"
+    "/isoletest.github.io/assets/client-DgSNFg-o.js"
   ],
   "\u0000E:/IdeaProjects/isole/node_modules/react-dom/client.js?commonjs-module": [
-    "/isoletest.github.io/assets/client-Duf4TK0_.js"
+    "/isoletest.github.io/assets/client-DgSNFg-o.js"
   ],
   "\u0000E:/IdeaProjects/isole/node_modules/react-dom/index.js?commonjs-es-import": [],
   "\u0000E:/IdeaProjects/isole/node_modules/react-dom/index.js?commonjs-module": [],
   "\u0000E:/IdeaProjects/isole/node_modules/react-fast-compare/index.js?commonjs-es-import": [],
   "\u0000E:/IdeaProjects/isole/node_modules/react-image-gallery/build/image-gallery.js?commonjs-es-import": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "\u0000E:/IdeaProjects/isole/node_modules/react-image-gallery/build/image-gallery.js?commonjs-module": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "\u0000E:/IdeaProjects/isole/node_modules/react/cjs/react-jsx-runtime.production.js?commonjs-exports": [],
@@ -33,10 +33,10 @@
   "\u0000E:/IdeaProjects/isole/node_modules/react/jsx-runtime.js?commonjs-es-import": [],
   "\u0000E:/IdeaProjects/isole/node_modules/react/jsx-runtime.js?commonjs-module": [],
   "\u0000E:/IdeaProjects/isole/node_modules/scheduler/cjs/scheduler.production.js?commonjs-exports": [
-    "/isoletest.github.io/assets/client-Duf4TK0_.js"
+    "/isoletest.github.io/assets/client-DgSNFg-o.js"
   ],
   "\u0000E:/IdeaProjects/isole/node_modules/scheduler/index.js?commonjs-module": [
-    "/isoletest.github.io/assets/client-Duf4TK0_.js"
+    "/isoletest.github.io/assets/client-DgSNFg-o.js"
   ],
   "\u0000E:/IdeaProjects/isole/node_modules/shallowequal/index.js?commonjs-es-import": [],
   "\u0000E:/IdeaProjects/isole/node_modules/use-sync-external-store/cjs/use-sync-external-store-with-selector.production.js?commonjs-exports": [],
@@ -96,39 +96,39 @@
   "node_modules/@mui/material/Paper/paperClasses.js": [],
   "node_modules/@mui/material/Portal/Portal.js": [],
   "node_modules/@mui/material/SvgIcon/SvgIcon.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/SvgIcon/svgIconClasses.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/Tab/Tab.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/Tab/tabClasses.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/TabScrollButton/TabScrollButton.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/TabScrollButton/tabScrollButtonClasses.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/Tabs/ScrollbarSize.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/Tabs/Tabs.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/Tabs/tabsClasses.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/Typography/Typography.js": [],
@@ -143,15 +143,15 @@
   "node_modules/@mui/material/colors/purple.js": [],
   "node_modules/@mui/material/colors/red.js": [],
   "node_modules/@mui/material/internal/animate.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/internal/svg-icons/KeyboardArrowLeft.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/internal/svg-icons/KeyboardArrowRight.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/styles/createColorScheme.js": [],
@@ -180,7 +180,7 @@
   "node_modules/@mui/material/useMediaQuery/index.js": [],
   "node_modules/@mui/material/utils/createSimplePaletteValueFilter.js": [],
   "node_modules/@mui/material/utils/createSvgIcon.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/material/utils/memoTheme.js": [],
@@ -189,7 +189,7 @@
   "node_modules/@mui/styled-engine/index.js": [],
   "node_modules/@mui/system/esm/DefaultPropsProvider/DefaultPropsProvider.js": [],
   "node_modules/@mui/system/esm/RtlProvider/index.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/system/esm/borders/borders.js": [],
@@ -231,7 +231,7 @@
   "node_modules/@mui/utils/esm/composeClasses/composeClasses.js": [],
   "node_modules/@mui/utils/esm/createChainedFunction/createChainedFunction.js": [],
   "node_modules/@mui/utils/esm/debounce/debounce.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/utils/esm/deepmerge/deepmerge.js": [],
@@ -257,7 +257,7 @@
   "node_modules/@mui/utils/esm/useLazyRef/useLazyRef.js": [],
   "node_modules/@mui/utils/esm/useOnMount/useOnMount.js": [],
   "node_modules/@mui/utils/esm/useSlotProps/useSlotProps.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/@mui/utils/esm/useTimeout/useTimeout.js": [],
@@ -275,11 +275,11 @@
   "node_modules/prop-types/index.js": [],
   "node_modules/prop-types/lib/ReactPropTypesSecret.js": [],
   "node_modules/react-dom/cjs/react-dom-client.production.js": [
-    "/isoletest.github.io/assets/client-Duf4TK0_.js"
+    "/isoletest.github.io/assets/client-DgSNFg-o.js"
   ],
   "node_modules/react-dom/cjs/react-dom.production.js": [],
   "node_modules/react-dom/client.js": [
-    "/isoletest.github.io/assets/client-Duf4TK0_.js"
+    "/isoletest.github.io/assets/client-DgSNFg-o.js"
   ],
   "node_modules/react-dom/index.js": [],
   "node_modules/react-fast-compare/index.js": [],
@@ -292,31 +292,31 @@
   "node_modules/react-i18next/dist/es/useTranslation.js": [],
   "node_modules/react-i18next/dist/es/utils.js": [],
   "node_modules/react-image-gallery/build/image-gallery.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/react-image-gallery/styles/css/image-gallery.css": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/react-inner-image-zoom/es/InnerImageZoom/InnerImageZoom.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/react-inner-image-zoom/es/InnerImageZoom/components/FullscreenPortal.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/react-inner-image-zoom/es/InnerImageZoom/components/Image.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/react-inner-image-zoom/es/InnerImageZoom/components/ZoomImage.js": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/react-inner-image-zoom/lib/InnerImageZoom/styles.css": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "node_modules/react-redux/dist/react-redux.mjs": [],
@@ -335,10 +335,10 @@
   "node_modules/redux-thunk/dist/redux-thunk.mjs": [],
   "node_modules/redux/dist/redux.mjs": [],
   "node_modules/scheduler/cjs/scheduler.production.js": [
-    "/isoletest.github.io/assets/client-Duf4TK0_.js"
+    "/isoletest.github.io/assets/client-DgSNFg-o.js"
   ],
   "node_modules/scheduler/index.js": [
-    "/isoletest.github.io/assets/client-Duf4TK0_.js"
+    "/isoletest.github.io/assets/client-DgSNFg-o.js"
   ],
   "node_modules/shallowequal/index.js": [],
   "node_modules/stylis/src/Enum.js": [],
@@ -356,19 +356,19 @@
   "node_modules/vite-react-ssg/node_modules/react-helmet-async/lib/index.module.js": [],
   "src/components/App.tsx": [],
   "src/components/core/Buttons/BackButton.tsx": [
-    "/isoletest.github.io/assets/BackButton-Cc4uPtfv.js"
+    "/isoletest.github.io/assets/BackButton-Bbwr9oVV.js"
   ],
   "src/components/core/Cards/FeatureCard.tsx": [
-    "/isoletest.github.io/assets/FeatureCard-BCuuqfrJ.js"
+    "/isoletest.github.io/assets/FeatureCard-DQ9xVIVX.js"
   ],
   "src/components/core/Cards/FeatureCardWithDesc.tsx": [
-    "/isoletest.github.io/assets/TechnicalPlanning-CCm6N5nT.js"
+    "/isoletest.github.io/assets/TechnicalPlanning-BrolitJr.js"
   ],
   "src/components/core/Cards/FeatureCardWithDescAndListItems.tsx": [
-    "/isoletest.github.io/assets/SunProtectionPage-BsPuel7Y.js"
+    "/isoletest.github.io/assets/SunProtectionPage-DgJ1t3iO.js"
   ],
   "src/components/core/Cards/ProjectCard.tsx": [
-    "/isoletest.github.io/assets/ReferencesPage-CIcLcPmA.js"
+    "/isoletest.github.io/assets/ReferencesPage-D-lhhDd-.js"
   ],
   "src/components/core/EmptySection.tsx": [],
   "src/components/core/Footer/Footer.tsx": [],
@@ -376,27 +376,27 @@
   "src/components/core/Header/LanguageDropdown.tsx": [],
   "src/components/core/Header/TopBar.tsx": [],
   "src/components/core/Images/Carousel.tsx": [
-    "/isoletest.github.io/assets/Carousel-CxqL3e6Y.js"
+    "/isoletest.github.io/assets/Carousel-DUwF8hUW.js"
   ],
   "src/components/core/Images/ImageViewer.tsx": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "src/components/core/Links/ContactSectionLink.tsx": [
-    "/isoletest.github.io/assets/ContactSectionLink-DWcfWSLY.js"
+    "/isoletest.github.io/assets/ContactSectionLink-BVi_SRTs.js"
   ],
   "src/components/core/Modal/ImpressumModal.tsx": [],
   "src/components/core/Modal/PolicyModal.tsx": [],
   "src/components/core/Product/Product.tsx": [
-    "/isoletest.github.io/assets/Product-ji98BSs5.js"
+    "/isoletest.github.io/assets/Product-BQiSyLne.js"
   ],
   "src/components/core/SEO/SEO.tsx": [],
   "src/components/pages/AboutUs/AboutUs.tsx": [
-    "/isoletest.github.io/assets/AboutUs-Cq0e8XMx.js"
+    "/isoletest.github.io/assets/AboutUs-CctHC-Zl.js"
   ],
   "src/components/pages/Contact/ContactInfo.tsx": [],
   "src/components/pages/Contact/ContanctPage.tsx": [
-    "/isoletest.github.io/assets/ContanctPage-BFTh1cYP.js"
+    "/isoletest.github.io/assets/ContanctPage-B3dFYI2o.js"
   ],
   "src/components/pages/Home/ContactSection.tsx": [],
   "src/components/pages/Home/FormComponents/ConfidentialitySidebar.tsx": [],
@@ -413,48 +413,48 @@
   "src/components/pages/Home/ProductsSection.tsx": [],
   "src/components/pages/Home/VideoSection.tsx": [],
   "src/components/pages/OurServices/Fassaden/FassadenPage.tsx": [
-    "/isoletest.github.io/assets/FassadenPage-DPna7yGH.js"
+    "/isoletest.github.io/assets/FassadenPage-CwIP-PbJ.js"
   ],
   "src/components/pages/OurServices/Fenster/FensterPage.tsx": [
-    "/isoletest.github.io/assets/FensterPage-DmW3wTsj.js"
+    "/isoletest.github.io/assets/FensterPage-Blw7CFiT.js"
   ],
   "src/components/pages/OurServices/SunProtection/SunProtectionPage.tsx": [
-    "/isoletest.github.io/assets/SunProtectionPage-BsPuel7Y.js"
+    "/isoletest.github.io/assets/SunProtectionPage-DgJ1t3iO.js"
   ],
   "src/components/pages/OurServices/TechnicalPlanning/TechnicalPlanning.tsx": [
-    "/isoletest.github.io/assets/TechnicalPlanning-CCm6N5nT.js"
+    "/isoletest.github.io/assets/TechnicalPlanning-BrolitJr.js"
   ],
   "src/components/pages/OurServices/TechnicalPlanning/TechnicalPlanningPage.tsx": [
-    "/isoletest.github.io/assets/TechnicalPlanning-CCm6N5nT.js"
+    "/isoletest.github.io/assets/TechnicalPlanning-BrolitJr.js"
   ],
   "src/components/pages/OurServices/Turen/BrandschutzturPage.tsx": [
-    "/isoletest.github.io/assets/BrandschutzturPage-BuTSINCk.js"
+    "/isoletest.github.io/assets/BrandschutzturPage-DrIhSeFL.js"
   ],
   "src/components/pages/OurServices/Turen/CategoryCard.tsx": [
-    "/isoletest.github.io/assets/TurenPage-DFvVz_nr.js"
+    "/isoletest.github.io/assets/TurenPage-BwvajgGP.js"
   ],
   "src/components/pages/OurServices/Turen/SchiebeturenPage.tsx": [
-    "/isoletest.github.io/assets/SchiebeturenPage-BnyuGF-_.js"
+    "/isoletest.github.io/assets/SchiebeturenPage-Gf8exKF0.js"
   ],
   "src/components/pages/OurServices/Turen/TurPage.tsx": [
-    "/isoletest.github.io/assets/TurPage-BHb6o7NM.js"
+    "/isoletest.github.io/assets/TurPage-CEwXaNY1.js"
   ],
   "src/components/pages/OurServices/Turen/TurenPage.tsx": [
-    "/isoletest.github.io/assets/TurenPage-DFvVz_nr.js"
+    "/isoletest.github.io/assets/TurenPage-BwvajgGP.js"
   ],
   "src/components/pages/Products/ProductDetailsPage.tsx": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "src/components/pages/Products/ProductNotFound.tsx": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "src/components/pages/Products/ProductsPage.tsx": [
-    "/isoletest.github.io/assets/ProductsPage-BPHtVF8J.js"
+    "/isoletest.github.io/assets/ProductsPage-CfF-0xqt.js"
   ],
   "src/components/pages/References/ReferencesPage.tsx": [
-    "/isoletest.github.io/assets/ReferencesPage-CIcLcPmA.js"
+    "/isoletest.github.io/assets/ReferencesPage-D-lhhDd-.js"
   ],
   "src/config/brandschutzturPageData.ts": [
     "/isoletest.github.io/assets/brandschutzturPageData-DZ8uD6tk.js"
@@ -467,7 +467,7 @@
   ],
   "src/config/homePageData.ts": [],
   "src/config/productsData.ts": [
-    "/isoletest.github.io/assets/ProductDetailsPage-C9tKgZKQ.js",
+    "/isoletest.github.io/assets/ProductDetailsPage-DTAsk1v9.js",
     "/isoletest.github.io/assets/ProductDetailsPage-BS2x_pS6.css"
   ],
   "src/config/schiebeturPageData.ts": [

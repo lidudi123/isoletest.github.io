@@ -1,0 +1,1 @@
+import{b as c,j as s,R as i}from"./app-Bt2TcOKI.js";const l=a=>{const{product:o}=a,t=c(),n=()=>{window.history.length>2?t(-1):t(i.START)},e="btn px-4 btn-secondary ".concat(o?"float-start":"");return s.jsx("button",{onClick:n,className:e,children:s.jsx("i",{className:"fa-solid fa-arrow-left"})})};export{l as B};
